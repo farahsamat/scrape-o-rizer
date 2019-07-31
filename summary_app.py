@@ -20,7 +20,7 @@ if __name__ == "__main__":
 
     # if you want to save the summary into a text file:
     # uncomment the following:
-    #with open("{}.txt".format(clean_title[:20].replace(" ", "_")), "w") as f:
+    #with open("sample_output/{}.txt".format(clean_title[:20].replace(" ", "_")), "w") as f:
     #    f.writelines(title + '\n')
     #    f.writelines('\n')
     #    f.writelines(summary)

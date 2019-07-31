@@ -1,0 +1,8 @@
+Automatic Question Answering - Towards Data Science
+
+The approach that will be discussed in this article is based on an algorithm designed specifically for factoid question answering.
+The returned answer is in the form of short texts rather than a list of relevant documents.” If you choose to answer open-domain questions, the source of information can be: your own documents, Common Crawl, Wikipedia, some ontologies like DBpedia or Google knowledge graph, also you can try Google custom search engine.
+In our project Google custom search engine was chosen, because it returns the most relevant information not only from Wiki, but also from other indexed pages.
+Also, Google custom search engine returns a list of URLs with a short summary, that could be used as an answer passage for the next steps.
+Here is an example of an automatically found answer to the same question by using different approaches.
+This approach can be applied for real business cases as a part of Question answering/user support system.

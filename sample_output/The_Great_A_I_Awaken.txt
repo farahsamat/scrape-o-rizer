@@ -1,0 +1,5 @@
+The Great A.I. Awakening - The New York Times
+
+What it meant in practice, with any luck, was that soon the company’s products would no longer represent the fruits of traditional computer programming, exactly, but “machine learning.” A rarefied department within the company, Google Brain, was founded five years ago on this very principle: that artificial “neural networks” that acquaint themselves with the world via trial and error, as toddlers do, might in turn develop something like human flexibility.
+(The researchers discovered this with the neural-network equivalent of something like an M.R.I., which showed them that a ghostly cat face caused the artificial neurons to “vote” with the greatest collective enthusiasm.) Most machine learning to that point had been limited by the quantities of labeled data.
+“We have something to tell you.” They told Hughes that 2016 seemed like a good time to consider an overhaul of Google Translate — the code of hundreds of engineers over 10 years — with a neural network.

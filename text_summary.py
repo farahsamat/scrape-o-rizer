@@ -14,4 +14,6 @@ class TextSummary:
         return whole_text, title
 
     def summarize_text(self, text):
-        return summarize(text, word_count=100)
+        return summarize(text, word_count=150)
+
+

@@ -1,0 +1,7 @@
+A Walkthrough of InferSent – Supervised Learning of Sentence Embeddings – Let the Machines Learn
+
+It involves encoding words or sentences into fixed length numeric vectors which are pre-trained on a large text corpus and can be used to improve the performance of other NLP tasks (like classification, translation).
+In this blog post, I will give you a walkthrough of a recent paper (Supervised Learning of Universal Sentence Representations from Natural Language Inference Data) published by the Facebook research team that employs a supervised method to learn sentence embeddings.
+The authors describe solutions to two important questions that arise in building a sentence embedding model – the type of task to be used for training the sentence vectors and the preferable neural network architecture to use to generate sentence encodings.
+They show that sentence embeddings generated from models trained on a natural language inference classifier (more details below) give best results in terms of accuracy on downstream tasks.
+Impact of the sentence encoding architectures The authors found that different models trained on the same NLI corpus lead to different transfer task results.
